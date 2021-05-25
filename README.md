@@ -1,5 +1,5 @@
 # KBO OPS Prediction
-> Since 2021.04.06 
+[KBO 타자 OPS 예측 경진대회](https://dacon.io/competitions/official/62540/overview/description)
 
 ## Predicting OPS of 2019 KBO League from DACON data
 
